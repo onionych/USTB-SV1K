@@ -3,7 +3,7 @@ A Database for Scene Text Detection and Recognition: USTB Street View 1000 Image
 This is a mirror for the original dataset (http://prir.ustb.edu.cn/TexStar/MOMV-text-detection/).
 
 ## Citation
-Please cite the following paper if you are using the code/model in your research paper.
+Please cite the following paper if you are using the dataset in your research paper.
 
     @article{DBLP:journals/pami/YinYHH14,
       author    = {Xu{-}Cheng Yin and
