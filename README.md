@@ -1,6 +1,5 @@
 # USTB-SV1K 
 A Database for Scene Text Detection and Recognition: USTB Street View 1000 Images (USTB‐SV1K).
-
 This is a mirror for the dataset (http://prir.ustb.edu.cn/TexStar/MOMV-text-detection/).
 
 ## Citation
