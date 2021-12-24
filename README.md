@@ -19,4 +19,4 @@ Please cite the following paper if you are using the code/model in your research
     }
 
 ## Contact Us
-For any problem concerning the dataset, please feel free to contact Mr. Chun Yang (noah_s_ark@163.com).
+For any problem concerning the dataset, please feel free to contact Mr. Chun Yang (chunyang@ustb.edu.cn).
